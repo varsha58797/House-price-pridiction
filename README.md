@@ -1,3 +1,3 @@
 # House-price-pridiction
 
-Dataset is fetched from sklearn :- fetch_california_housing dataset
+Dataset is fetched from sklearn.datasets :- fetch_california_housing dataset
